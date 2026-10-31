@@ -1,0 +1,6 @@
+﻿streamlit
+openai
+pillow
+numpy
+pandas
+openpyxl

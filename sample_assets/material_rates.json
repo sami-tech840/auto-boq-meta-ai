@@ -1,0 +1,35 @@
+{
+  "wall_height_ft": 10.0,
+  "tiers": {
+    "economy": {
+      "flooring_per_sqft": 85,
+      "painting_per_sqft": 28,
+      "false_ceiling_per_sqft": 95,
+      "electrical_per_sqft": 110,
+      "modular_kitchen_per_rft": 8500,
+      "wardrobe_per_rft": 6500,
+      "door_unit_cost": 8500,
+      "window_unit_cost": 6000
+    },
+    "standard": {
+      "flooring_per_sqft": 145,
+      "painting_per_sqft": 45,
+      "false_ceiling_per_sqft": 135,
+      "electrical_per_sqft": 160,
+      "modular_kitchen_per_rft": 12500,
+      "wardrobe_per_rft": 9500,
+      "door_unit_cost": 14000,
+      "window_unit_cost": 9500
+    },
+    "luxury": {
+      "flooring_per_sqft": 320,
+      "painting_per_sqft": 85,
+      "false_ceiling_per_sqft": 210,
+      "electrical_per_sqft": 240,
+      "modular_kitchen_per_rft": 22000,
+      "wardrobe_per_rft": 16500,
+      "door_unit_cost": 28000,
+      "window_unit_cost": 18000
+    }
+  }
+}

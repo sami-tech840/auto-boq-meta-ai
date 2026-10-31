@@ -1,0 +1,72 @@
+[
+  {
+    "id": "plan_01",
+    "title": "2BHK Modern Apartment (1,150 Sq.Ft)",
+    "file_path": "sample_assets/floorplans/floorplan_01.png",
+    "resolution": {
+      "width": 1200,
+      "height": 800
+    },
+    "calibration_anchor": {
+      "room_label": "Master Bedroom",
+      "printed_dimension_text": "12'0\" x 14'0\"",
+      "real_area_sqft": 168.0
+    }
+  },
+  {
+    "id": "plan_02",
+    "title": "3BHK Corner Villa (1,680 Sq.Ft)",
+    "file_path": "sample_assets/floorplans/floorplan_02.png",
+    "resolution": {
+      "width": 1200,
+      "height": 800
+    },
+    "calibration_anchor": {
+      "room_label": "Master Bedroom",
+      "printed_dimension_text": "12'0\" x 14'0\"",
+      "real_area_sqft": 168.0
+    }
+  },
+  {
+    "id": "plan_03",
+    "title": "1BHK Compact Studio (620 Sq.Ft)",
+    "file_path": "sample_assets/floorplans/floorplan_03.png",
+    "resolution": {
+      "width": 1200,
+      "height": 800
+    },
+    "calibration_anchor": {
+      "room_label": "Master Bedroom",
+      "printed_dimension_text": "12'0\" x 14'0\"",
+      "real_area_sqft": 168.0
+    }
+  },
+  {
+    "id": "plan_04",
+    "title": "3BHK Luxury Duplex (2,450 Sq.Ft)",
+    "file_path": "sample_assets/floorplans/floorplan_04.png",
+    "resolution": {
+      "width": 1200,
+      "height": 800
+    },
+    "calibration_anchor": {
+      "room_label": "Master Bedroom",
+      "printed_dimension_text": "12'0\" x 14'0\"",
+      "real_area_sqft": 168.0
+    }
+  },
+  {
+    "id": "plan_05",
+    "title": "2BHK Vastu-Compliant Flat (980 Sq.Ft)",
+    "file_path": "sample_assets/floorplans/floorplan_05.png",
+    "resolution": {
+      "width": 1200,
+      "height": 800
+    },
+    "calibration_anchor": {
+      "room_label": "Master Bedroom",
+      "printed_dimension_text": "12'0\" x 14'0\"",
+      "real_area_sqft": 168.0
+    }
+  }
+]
